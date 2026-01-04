@@ -1,0 +1,286 @@
+City,Sector,DataPoint,UOM,Result
+Sangli,Energy,Total energy consumed ,kW,1051391600
+Sangli,Demography,Population,Number,554183
+Sangli,Demography,Population as per Census 2011,Number,502793
+Sangli,Demography,Number of citizens that were eligible to vote during the last municipal election,Number,424179
+Sangli,Demography,Number of citizens who voted during the last municipal election,Number,264153
+Sangli,Demography,Number of households,Number,115455
+Sangli,Demography,Number of households as per Census 2011,Number,110062
+Sangli,Education,Average annual household consumption expenditure,Number (Rupees),107981.2
+Sangli,Water & Sanitation,Total number of households with metered water supply connections,Number,92965
+Sangli,Energy,Total diesel consumption ,kL,89425
+Sangli,Energy,Total petrol consumption ,kL,65335
+Sangli,Economy,Total number of MSME clusters in the city,Number,52372
+Sangli,Water & Sanitation,Total number of households connected to sewerage network,Number,46502
+Sangli,Mobility,Total number of Other fuel shared vehicles in the City,Number,44286
+Sangli,Mobility,Total number of shared vehicle in the city,Number,44286
+Sangli,Education,Total number of students enrolled in grade 1-5 (public and private),Number,41934
+Sangli,Energy,Total number of energy efficient street lights in the city,Number,32000
+Sangli,Education,Students enrolled in grade 6-8 (public and private),Number,26077
+Sangli,Energy,BUA of green buildings in the city (institutional),sq.m,12306
+Sangli,Health,Total number of hospital beds,Number,8200
+Sangli,Education,Average annual household expenditure on education (only students studying till higher secondary level),Number (Rupees),5086.07
+Sangli,Energy,Total LPG consumption ,kL,3994
+Sangli,Education,Student enrollment in municipal schools for grade 1-5,Number,3890
+Sangli,Energy,BUA of green buildings in the city (residential),sq.m,3797
+Sangli,Health,Average annual household expenditure on healthcare,Number (Rupees),3684.83
+Sangli,Energy,BUA of green buildings in the city (commercial),sq.m,2596
+Sangli,Governance & ICT,Total staff in ULB available with the authority (permanent and contractual),Number,2489
+Sangli,Governance & ICT,Total staff sanctioned in the ULB (permanent),Number,2378
+Sangli,Finance,Establishment expenditure per capita (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),1484.95
+Sangli,Governance & ICT,Total staff on roll with the ULB (permanent),Number,1430
+Sangli,Finance,Establishment expenditure per capita (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),1388.85
+Sangli,Finance,Establishment expenditure per capita (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),1331.23
+Sangli,Governance & ICT,Total number of building and construction permits issued,Number,1245
+Sangli,Finance,Amount of total expenditure of the ULB (Budget Estimates)-1st April 2019 to 31st March 2020,Number (In Crore),817.06
+Sangli,Finance,Amount of total expenditure of the ULB (Budget Estimates)-1st April 2018 to 31st March 2019,Number (In Crore),729.95
+Sangli,Finance,Amount of total expenditure of the ULB (Budget Estimates)-1st April 2020 to 31st March 2021,Number (In Crore),714.06
+Sangli,Mobility,Total road length of the city,Km,681
+Sangli,Mobility,Total road length maintained by ULB,Km,620
+Sangli,Finance,Amount of total expenditure of ULB (Revised Estimates)-1st April 2019 to 31st March 2020,Number (In Crore),602.85
+Sangli,Finance,Capital expenditure per capita (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),565
+Sangli,Finance,Amount of total expenditure of ULB (Revised Estimates)-1st April 2020 to 31st March 2021,Number (In Crore),562.1
+Sangli,Finance,Amount of total expenditure of ULB (Revised Estimates)-1st April 2018 to 31st March 2019,Number (In Crore),476.7
+Sangli,Finance,Capital expenditure per capita (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),465
+Sangli,Water & Sanitation,Total length of covered storm water drains (pucca construction),Km,460
+Sangli,Finance,Capital expenditure per capita (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),455
+Sangli,Mobility,Total road network length ,Km,440
+Sangli,Water & Sanitation,Length of sewerage network,Km,380
+Sangli,Finance,Total value of state grants that were received by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),309
+Sangli,Finance,Total revenue of the ULB (Budget Estimates)-1st April 2018 to 31st March 2019,Number (In Crore),301.93
+Sangli,Education,Schools (Grade 1 to 10) in the city (public and private),Number,298
+Sangli,Finance,Total revenue of the ULB (Budget Estimates)-1st April 2019 to 31st March 2020,Number (In Crore),285.76
+Sangli,Finance,Total revenue of the ULB (Budget Estimates)-1st April 2020 to 31st March 2021,Number (In Crore),284.35
+Sangli,Health,Total number of registered doctors (Allopathic) in the city,Number,282
+Sangli,Governance & ICT,Number of women working in the ULB (permanent),Number,279
+Sangli,Finance,Total revenue of the ULB (Revised Estimates)-1st April 2020 to 31st March 2021,Number (In Crore),272.99
+Sangli,Finance,Total revenue generated by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),260.33
+Sangli,Health,Total number of multipurpose healthcare workers (male and female),Number,260
+Sangli,Finance,Total revenue of the ULB (Revised Estimates)-1st April 2019 to 31st March 2020,Number (In Crore),247.17
+Sangli,Finance,Total value of the total expenditure by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),240.15
+Sangli,Finance,Total value of state grants that were spent by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),234
+Sangli,Finance,Total value of state grants that were received by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),229
+Sangli,Finance,Total revenue generated by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),227.64
+Sangli,Finance,Total value of state grants that were spent by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),226
+Sangli,Finance,Total value of the total expenditure by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),225.43
+Sangli,Finance,Total revenue generated by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),223.78
+Sangli,Finance,Total revenue of the ULB (Revised Estimates)-1st April 2018 to 31st March 2019,Number (In Crore),222.79
+Sangli,Finance,Total value of state grants that were spent by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),216
+Sangli,"Planning, Regulation & Preparedness",Total number of tenders awarded by the ULB,Number,211
+Sangli,"Planning, Regulation & Preparedness",Total number of tenders awarded through e-tendering,Number,211
+Sangli,Finance,Total value of state grants that were received by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),209
+Sangli,Finance,Total value of the total expenditure by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),201.85
+Sangli,Health,Total number of registered dentists in the city,Number,147
+Sangli,Finance,Total value of the establishment expenditure by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),143.04
+Sangli,Finance,Total value of the establishment expenditure by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),130.25
+Sangli,Finance,Total value of the establishment expenditure by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),128.2
+Sangli,Water & Sanitation,Water supplied to the city in million litres per day in MLD for the last twelve months i.e. June-July 2020 to July-August 2021.,MLD,122
+Sangli,"Planning, Regulation & Preparedness",Total area of the city under the jurisdiction of the ULB,sq km,118.18
+Sangli,"Planning, Regulation & Preparedness",Total area of the city,sq km,118.18
+Sangli,"Planning, Regulation & Preparedness",Municipal area ,sq km,118
+Sangli,Water & Sanitation,Total water produced and put into the transmission and distribution system in MLD for the last twelve months i.e. June-July 2020 to July-August 2021.,MLD,111.8
+Sangli,Finance,Total salary expenses of the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),110.25
+Sangli,Finance,Total salary expenses of the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),103.99
+Sangli,Solid Waste Management,Percentage of Households/Commercial Establishments connected to a Closed Sewerage System (Swachh Survekshan),Percentage,100
+Sangli,Finance,Total salary expenses of the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),99.75
+Sangli,Mobility,Total footpath length of the city,Km,98
+Sangli,Mobility,Total footpath length of the ULB,Km,98
+Sangli,"Planning, Regulation & Preparedness",Total number of restaurants (public and private),Number,97
+Sangli,Finance,Total own revenue generated by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),93.49
+Sangli,Mobility,Total length of NMT ,Km,93
+Sangli,Health,"Staff strength of doctors, nurses and lab assistants (sanctioned) in municipal hospitals",Number,90
+Sangli,Health,Total number of accredited healthcare activists in the city,Number,90
+Sangli,Education,Literacy rate as per 2011 Census,Percentage,85.97394
+Sangli,Finance,Total value of central grants that were received by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),82
+Sangli,Water & Sanitation,Total amount of wastewater generated,MLD,81.44
+Sangli,Water & Sanitation,Total sewage generated in the ULB,MLD,81.44
+Sangli,Finance,Total own revenue generated by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),75.59
+Sangli,Finance,Total value of central grants that were received by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),72.9
+Sangli,Water & Sanitation,Total installed sewage treatment capacity of the ULB,MLD,72
+Sangli,Finance,Total value of central grants that were spent by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),69.5
+Sangli,Finance,Total own revenue generated by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),67.36
+Sangli,Health,Total number of registered trained nurses in the city,Number,63
+Sangli,Water & Sanitation,Total water sold in MLD (Total water billed) for the last twelve months i.e. June-July 2020 to July-August 2021,MLD,62.58082192
+Sangli,Education,Staff strength of teachers (actual) in municipal schools for grade 1-10,Number,52
+Sangli,Water & Sanitation,Total wastewater treated in MLD for the last twelve months i.e. June-July 2020 to July-August 2021,MLD,52
+Sangli,Education,National Achievement Survey Score,Number,51.175
+Sangli,Water & Sanitation,Total amount of wastewater treated,MLD,50
+Sangli,Governance & ICT,Percentage of elected women officials in the ULB,Percentage,50
+Sangli,Finance,Total value of central grants that were received by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),46.71
+Sangli,Finance,Total property tax collected by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),44.2
+Sangli,Finance,Total tax revenue generated by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),44.2
+Sangli,Finance,Total value of central grants that were spent by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),39.59
+Sangli,Finance,Total tax revenue generated by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),38.72
+Sangli,Finance,Total property tax collected by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),38.36
+Sangli,"Planning, Regulation & Preparedness",Total number of administrative wards of the ULB,Number,38
+Sangli,Finance,Total value of the capital expenditure by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),36.76
+Sangli,Health,Total number of registered doctors (AYUSH) in the city,Number,36
+Sangli,Finance,Total value of central grants that were spent by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),35.2
+Sangli,"Planning, Regulation & Preparedness",Total value of tenders awarded by the ULB,Number (In Crore),32
+Sangli,"Planning, Regulation & Preparedness",Total number of parks operated by ULB,Number,32
+Sangli,"Planning, Regulation & Preparedness",Total value of tenders awarded through e-tendering,Number (In Crore),32
+Sangli,Finance,Total value of the capital expenditure by the ULB (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),31.77
+Sangli,Economy,Cluster strength,Number,31
+Sangli,Governance & ICT,Average number of days taken by the ULB to issue building and construction permits,Number (Days),30
+Sangli,Finance,Total tax revenue generated by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),29.73
+Sangli,Finance,Total property tax collected by the ULB (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),29.56
+Sangli,Finance,Total value of the capital expenditure by the ULB (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),28.12
+Sangli,Water & Sanitation,Total recycled wastewater that is reused in MLD for the last twelve months i.e. June-July 2020 to July-August 2021,MLD,27
+Sangli,Water & Sanitation,Total amount of secondary/teritiary treated wastewater recycled and reused by the ULB,MLD,27
+Sangli,"Planning, Regulation & Preparedness",Total number of burial grounds/ cremation grounds operated by ULB,Number,26
+Sangli,"Planning, Regulation & Preparedness",Total number of community halls (public and private),Number,24
+Sangli,Health,Total number of public health facilities,Number,19
+Sangli,Finance,Credit Rating of ULB-1st April 2020 to 31st March 2021,Number (Score and Rating),15
+Sangli,Finance,Credit Rating of ULB-1st April 2018 to 31st March 2019,Number (Score and Rating),15
+Sangli,Finance,Credit Rating of ULB-1st April 2019 to 31st March 2020,Number (Score and Rating),15
+Sangli,Mobility,"Total number of taxis (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric)",Number,13
+Sangli,Mobility,"Total number of e-rickshaw (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric)",Number,11
+Sangli,Health,Total number of reported cases of dengue,Number,10
+Sangli,Environment,Total area under green cover,sq km,7.92
+Sangli,Health,Total number of municipal primary healthcare institutions managed or run by ULB,Number,7
+Sangli,"Planning, Regulation & Preparedness",Total number of crematoriums operated by ULB,Number,6
+Sangli,Environment,Samples tested by the CPCB for assessment of water quality in public surface water bodies,Number,6
+Sangli,Governance & ICT,Total number of types of licenses provided by the ULB,Number,6
+Sangli,Mobility,Total expenditure on road maintenance,Number (In Crore),5.33
+Sangli,Governance & ICT,Total number of Mayors who worked for ULB in last five years,Details,4
+Sangli,"Planning, Regulation & Preparedness",Total number of ward committees in the ULB,Number,4
+Sangli,Health,Total expenditure on healthcare by the ULB,Number (In Crore),4
+Sangli,Governance & ICT,Total number of commissioners who worked for ULB in last five years,Details,3
+Sangli,Governance & ICT,Number of employees with registered corruption charges,Number,3
+Sangli,Mobility,"Total number of buses (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric) in the city",Number,2
+Sangli,"Planning, Regulation & Preparedness",Total number of night shelters (permanent) operated by ULB,Number,2
+Sangli,"Planning, Regulation & Preparedness","Total number of music, dance and drama centre/theatres (public and private)",Number,2
+Sangli,Governance & ICT,Total number of types of licenses with online application facility,Number,2
+Sangli,Governance & ICT,Total number of active channels being run by ULB for complaint registration,Number,2
+Sangli,Education,Total number of schools with access to digital education (public and private),Number,2
+Sangli,Mobility,"Total number of privately operated buses (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric)",Number,2
+Sangli,Solid Waste Management,Remediation of existing dumpsites undertaken and the stage of the same or no legacy waste (dumpsite),Yes or No,1
+Sangli,Finance,Budget estimate prepared by the ULB-1st April 2019 to 31st March 2020,Yes or No,1
+Sangli,Finance,Budget estimate prepared by the ULB-1st April 2018 to 31st March 2019,Yes or No,1
+Sangli,Finance,Does the ULB have powers to borrow and invest funds without state approval (including under debt-limitation policies)?,Yes or No,1
+Sangli,Finance,Are externally audited financial statements of the ULB available?-1st April 2020 to 31st March 2021,Yes or No,1
+Sangli,Finance,Are externally audited financial statements of the ULB available?-1st April 2019 to 31st March 2020,Yes or No,1
+Sangli,Finance,Are externally audited financial statements of the ULB available?-1st April 2018 to 31st March 2019,Yes or No,1
+Sangli,Finance,Has the ULB published its budgets and accounts?-1st April 2018 to 31st March 2019,Yes or No,1
+Sangli,Finance,Has the ULB published its budgets and accounts?-1st April 2019 to 31st March 2020,Yes or No,1
+Sangli,Finance,Has the ULB published its budgets and accounts?-1st April 2020 to 31st March 2021,Yes or No,1
+Sangli,Finance,Is the financial and operational statistics of the ULB for the last financial year made available in public domain?,Yes or No,1
+Sangli,Environment,Have measures from clean air action plan been implemented?,Yes or No,1
+Sangli,Environment,Does the city have monitoring stations for measuring ambient air quality?,Yes or No,1
+Sangli,Environment,Does city perform pollutant source identification and have a clean air action plan?,Yes or No,1
+Sangli,Governance & ICT,Average number of days taken by the ULB to issue a birth certificate,Number (Days),1
+Sangli,Governance & ICT,Average number of days taken by the ULB to issue a death certificate,Number (Days),1
+Sangli,Governance & ICT,Does the ULB has a citizen charter?,Yes or No,1
+Sangli,Governance & ICT,Does the ULB have a web portal?,Yes or No,1
+Sangli,Governance & ICT,Does the ULB have online public service delivery?,Yes or No,1
+Sangli,Governance & ICT,Does the ULB have online public service delivery on mobile?,Yes or No,1
+Sangli,Governance & ICT,Is an ombudsman present for service level related queries and grievance redressal?,Yes or No,1
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Flood Monitoring,Yes or No,1
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Revenue Collection,Yes or No,1
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Streetlights,Yes or No,1
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Traffic Management,Yes or No,1
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Water,Yes or No,1
+Sangli,Energy,Promotional/Penalty schemes available ,Yes or No,1
+Sangli,Energy,Functioning of high - level green building committee ,Yes or No,1
+Sangli,Energy,Functioning of Green Building Cell in ULB ,Yes or No,1
+Sangli,Energy,Does the city have energy efficient street lights? ,Yes or No,1
+Sangli,Health,Total number of reported cases of malaria,Number,1
+Sangli,Mobility, Does the city have clean technology shared vehicles?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Does city prioritize rejuvenation and conservation of water bodies and open areas?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness","Does the city monitor, update and maintream its disaster management plan?",Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has city mapped water bodies and open areas?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness","Has city prepared disaster management plan including ward-level Hazard Risk, Vulnerability and Capacity Assessment along based on NDMA guideline?",Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city considered a climate action plan?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city established a city level biodiversity management committee?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city implemented measures identified to increase the urban biodiversity?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city initated a city level disaster management plan?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city instituted a disaster management cell or emergency operation centre (EOC) within ULB?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness",Has the city prioritised urban biodiversity management?,Yes or No,1
+Sangli,"Planning, Regulation & Preparedness","Have response teams (e.g. fire stations, police, ambulances) been identified and prepared for disasters?",Yes or No,1
+Sangli,Solid Waste Management,"3R Principles: Whether measures taken to reduce generation of Dry/Wet Waste? If yes, share details",Yes or No,1
+Sangli,Solid Waste Management,"Any mechanism in place to manage Construction & Demolition (C&D) waste as per C&D Waste Management Rule, 2016? Whether plans in place to initiate processing of C&D Waste?",Yes or No,1
+Sangli,Solid Waste Management,Garbage Collection (Swachh Survekshan),Percentage,1
+Sangli,Solid Waste Management,Plastic Waste Management Rules: Whether the City has banned single use plastic including plastic with <50 micron during all festivals/social gatherings/events?,Yes or No,1
+Sangli,Finance,Budget estimate prepared by the ULB-1st April 2020 to 31st March 2021,Yes or No,1
+Sangli,Water & Sanitation,Does the city recycle and re-use the waste water?,Yes or No,1
+Sangli,Water & Sanitation,Has city carried out any flood/water stagnation risk assessment in last five years i.e. from 2017 to 2021?,Yes or No,1
+Sangli,Water & Sanitation,"Has city implemented the measures specified in flood/water stagnation management plan, urban flood management SOP of Urban flood alert and early warning systems?",Yes or No,1
+Sangli,Water & Sanitation,Has the city conducted NRW Study or collected any information on the water produced or sold?,Yes or No,1
+Sangli,Finance,Percentage of budget deficit/surplus of the ULB-1st April 2020 to 31st March 2021,Percentage,0.11
+Sangli,Finance,Percentage of budget deficit/surplus of the ULB-1st April 2018 to 31st March 2019,Percentage,0.04
+Sangli,Finance,Percentage of budget deficit/surplus of the ULB-1st April 2019 to 31st March 2020,Percentage,0.03
+Sangli,Governance & ICT,Has the City Appointed a City Data Officer (CDO)?,Yes or No,0
+Sangli,Governance & ICT,Does the ULB have online grievance redressal on mobile?,Yes or No,0
+Sangli,Governance & ICT,Does the ULB have online grievance redressal?,Yes or No,0
+Sangli,Education,Total number of Digital Literacy Centers,Number,0
+Sangli,Governance & ICT,Does the city have presence on an open data portal?,Yes or No,0
+Sangli,Education,Number of people who have completed digital literacy courses provided by ULB or smart city company,Number,0
+Sangli,Water & Sanitation,"Has city conducted the energy audit for water supply system in the last Five Years (2017-2021)? If yes, please enclose the evidence template and energy audit reports.",Yes or No,0
+Sangli,"Planning, Regulation & Preparedness",Does regular monitoring and streamlining of climate relevant actions happen in the city?,Yes or No,0
+Sangli,Water & Sanitation,Has city conducted water resource assessment?,Yes or No,0
+Sangli,"Planning, Regulation & Preparedness",Has city allocated any financial resources for rejuvenation and conservation of urban water bodies and open areas?,Yes or No,0
+Sangli,Finance,Does the ULB have power to set/fix and collect the following taxes-Advertisement rights,Yes or No,0
+Sangli,Water & Sanitation,Has city prepared a detailed flood/water stagnation risk assessment and prepared a management  plan?,Yes or No,0
+Sangli,"Planning, Regulation & Preparedness",Has climate action plan been implemented in the city?,Yes or No,0
+Sangli,"Planning, Regulation & Preparedness",Has the city conducted baseline assessment for urban biodiversity management?,Yes or No,0
+Sangli,Water & Sanitation, Has city reviewed and revised the water resource management plan to include climate change factors and initiated any actions/work specified in the Water Resource Management Plan?,Yes or No,0
+Sangli,Finance,"Does the ULB have powers to set/ fix any taxes other than - property tax, local body tax, professional tax, advertisement rights, entertainment tax for the ULB? If 1, how many and which are they?",Details,0
+Sangli,"Planning, Regulation & Preparedness",Has the city identified measures to increase the urban biodiversity with sufficient resources allocated for its implementation?,Yes or No,0
+Sangli,Finance,Total earnings/borrowings raised by the ULB from alternate sources of financing (Actuals)-1st April 2018 to 31st March 2019,Number (In Crore),0
+Sangli,Finance,Proportion of the ULB budget allocated through participatory budgeting-1st April 2020 to 31st March 2021,Percentage,0
+Sangli,Finance,Proportion of the ULB budget allocated through participatory budgeting-1st April 2019 to 31st March 2020,Percentage,0
+Sangli,"Planning, Regulation & Preparedness",Has the city prepared a climate action plan?,Yes or No,0
+Sangli,Finance,Proportion of the ULB budget allocated through participatory budgeting-1st April 2018 to 31st March 2019,Percentage,0
+Sangli,"Planning, Regulation & Preparedness",Is the city reviewing and monitoring urban water bodies and open areas and maintaining rejuvenated/conserved water bodies and open areas?,Yes or No,0
+Sangli,Governance & ICT,Does the City have an Open Data Policy?,Yes or No,0
+Sangli,Governance & ICT,Are service-level performance reports regularly published in public domain by the ULB every year?,Yes or No,0
+Sangli,Finance,Were the audited accounts (internal and external) published by the ULB?-1st April 2020 to 31st March 2021,Yes or No,0
+Sangli,Finance,Were the audited accounts (internal and external) published by the ULB?-1st April 2019 to 31st March 2020,Yes or No,0
+Sangli,Finance,Were the audited accounts (internal and external) published by the ULB?-1st April 2018 to 31st March 2019,Yes or No,0
+Sangli,Energy,Total connected electrical load in the city ,kW,0
+Sangli,Energy,Total electric energy consumption from all on-grid renewable energy sources that are used in the city ,kWh,0
+Sangli,Energy,Total PNG consumption ,kL,0
+Sangli,Environment,Does the city demonstrate reduction trend or incremental improvements in air pollution?,Yes or No,0
+Sangli,Environment,Does the city make pollutant data available in the public domain?,Yes or No,0
+Sangli,Environment,"Does the city monitor PM10 PM2.5, NOx, SOx as per Central Pollution Control Board Guidelines and CO, NH3, Pb and O3 etc as per NAAQS?",Yes or No,0
+Sangli,Environment,Does the city recognise air pollution levels and its associated hazards?,Yes or No,0
+Sangli,Environment,Does the city's air quality comply with National Ambient Air Quality Standards?,Yes or No,0
+Sangli,Environment,Is an assessment of impacts of Clean Air Action Plan being conducted?,Yes or No,0
+Sangli,Finance,Are any internal audits or controls and risk conducted last fiscal year (and presence of such documents)?,Yes or No,0
+Sangli,Finance,Total earnings/borrowings raised by the ULB from alternate sources of financing (Actuals)-1st April 2020 to 31st March 2021,Number (In Crore),0
+Sangli,Education,Does the ULB run digital literacy programmes?,Yes or No,0
+Sangli,Solid Waste Management,Is ICT Based Monitoring Mechanism in Place for Solid Waste Management in the ULB as per Swachh Survekshan?,Yes or No,0
+Sangli,Solid Waste Management,Is the landfill in the city a sanitary landfill? Or landfill not required/ Zero landfill city,Yes or No,0
+Sangli,Finance,Total earnings/borrowings raised by the ULB from alternate sources of financing (Actuals)-1st April 2019 to 31st March 2020,Number (In Crore),0
+Sangli,Finance,Is accrual based double entry accounting system implemented by ULB?,Yes or No,0
+Sangli,Finance,Does the ULB have power to set/fix and collect the following taxes-Professional tax,Yes or No,0
+Sangli,Solid Waste Management,Street Cleanliness (Swachh Survekshan),Percentage,0
+Sangli,Water & Sanitation,"Does city have a water resource management plan with short, medium and long term actions (For example, demand management plan and augmentation of existing water resources through recharge, rejuvenation and rain water harvesting)?",Yes or No,0
+Sangli,Finance,Does the ULB have power to set/fix and collect the following taxes-Local body tax,Yes or No,0
+Sangli,Finance,Does the ULB have power to set/fix and collect the following taxes-Entertainment tax,Yes or No,0
+Sangli,Water & Sanitation,Has city carried out a study to assess the current water resources along with future demand and supply for at least five years?,Yes or No,0
+Sangli,Energy,Does the city generate power from renewable sources? ,Yes or No,0
+Sangli,Energy,Energy Efficient Street Lighting,Percentage,0
+Sangli,Energy,Inclusion of Part 11 of NBC 2016 and/or ECBC 2017 & ENS and/or minimum level of green building rating systems notified in DCRs/GDCRs and building rules/bye laws ,Yes or No,0
+Sangli,Governance & ICT,Total number of Wi-Fi hotspots provided by ULB,Number,0
+Sangli,Energy,Cumulative installed capacity of off-grid renewable energy sources for self-consumption. ,kW,0
+Sangli,Governance & ICT,Total number of staff in ULB that underwent training,Number,0
+Sangli,Health,Total number of registered licensed pharmacists in the city,Number,0
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Wastewater,Yes or No,0
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Solid Waste Management (Garbage Collection and Transportation),Yes or No,0
+Sangli,Water & Sanitation,"Has city conducted a rapid flood/water stagnation risk assessment which may include hotspots, frequency and reasons for flooding/ water stagnation?",Yes or No,0
+Sangli,Water & Sanitation,"Has city conducted the energy audit for wastewater management systems in the last Five Years (2017-2021)? If yes, please enclose the evidence template and energy audit reports.",Yes or No,0
+Sangli,Mobility,Does the city have public transport?,Yes or No,0
+Sangli,Mobility,Fleet size of bus ,Number,0
+Sangli,Mobility,Fleet size of ferries ,Number,0
+Sangli,Mobility,Fleet size of metro coach ,Number,0
+Sangli,Mobility,Fleet size of suburban rail coach ,Number,0
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-MIS,Yes or No,0
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Grievance Redressal,Yes or No,0
+Sangli,Governance & ICT,Select the services that are being managed through a command and control system out of the following:-Environmental Pollution,Yes or No,0
+Sangli,Energy,Total CNG consumption ,kL,0
+Sangli,Mobility,"Total number of autos (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric)",Number,0
+Sangli,Governance & ICT,Has the City Formed a City Data Alliance?,Yes or No,0
+Sangli,Governance & ICT,Is the mayor directly elected?,Yes or No,0
+Sangli,Mobility,"Total number of ferries (based on clean fuel like CNG. LPG, Hybrid, Biofuels, Electric)",Number,0
+Sangli,Energy,BUA of green buildings in the city (Industrial),sq.m,0
